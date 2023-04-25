@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IDONTKNOWwhyuselessSHITcompleteMYTASKS/1.0.0": {
+        "runtime": {
+          "IDONTKNOWwhyuselessSHITcompleteMYTASKS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IDONTKNOWwhyuselessSHITcompleteMYTASKS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
